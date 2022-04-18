@@ -184,7 +184,7 @@
 
 	// There is also http://api.tfwm.org.uk/StopPoint/${stopId}/Arrivals?formatter=JSON but somehow it seems to give less accurate information (or at least to), and also requires an API key
 	// The below is actually https://journeyplanner.networkwestmidlands.com/api/TimetableStopApi/GetStopDepartures/${stopId} put through JSONProxy to enable CORS
-	const URL = `https://jsonp.afeld.me/?url=https%3A%2F%2Fjourneyplanner.networkwestmidlands.com%2Fapi%2FTimetableStopApi%2FGetStopDepartures%2F${stopId}`;
+	const URL = `https://wild-bonus-e3a8.ao3ffee.workers.dev/?url=https%3A%2F%2Fjourneyplanner.networkwestmidlands.com%2Fapi%2FTimetableStopApi%2FGetStopDepartures%2F${stopId}`;
 	
 	let lastUpdated = null;
 
