@@ -1,4 +1,4 @@
-# 🚌 Beautiful bus display [(view live)](https://domdomegg.github.io/beautiful-bus-display/)
+# 🚌 Beautiful bus display [(view live)](https://adamjones.me/west-midlands-bus-display/)
 
 ![Bus display showing bus in 2 minutes](branding/ultrawide/2mins.png)
 
@@ -10,7 +10,7 @@ Many of the illustrations are taken from the amazing [unDraw](https://undraw.co/
 
 Add `?stopId=YOUR_STOP_ID&serviceNumber=YOUR_SERVICE_NUMBER` to the URL
 
-For example [`?stopId=43000008102&serviceNumber=12X`](https://domdomegg.github.io/beautiful-bus-display/?stopId=43000008102&serviceNumber=12X)
+For example [`?stopId=43000008102&serviceNumber=12X`](https://adamjones.me/west-midlands-bus-display/?stopId=43000008102&serviceNumber=12X)
 
 ## 🙌 Contributing
 
